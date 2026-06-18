@@ -1,0 +1,9 @@
+node_modules/
+coverage/
+.npm-cache/
+.DS_Store
+
+# Local exports may contain private or paid creator content.
+patreon-export/
+exports/
+out/

@@ -1,0 +1,12 @@
+{
+  "id": "post_123",
+  "type": "post",
+  "attributes": {
+    "title": "My First Patreon Post!",
+    "content": "<p>Hello <strong>supporters</strong> &amp; friends.</p><p><img src=\"https://example.com/image.png\" /></p><ul><li>One thing</li><li><a href=\"https://youtu.be/abcdef12345\">A video</a></li></ul>",
+    "published_at": "2026-05-20T12:34:56.000+00:00",
+    "url": "https://www.patreon.com/posts/post-123",
+    "is_public": true,
+    "is_paid": false
+  }
+}

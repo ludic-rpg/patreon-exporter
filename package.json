@@ -1,0 +1,30 @@
+{
+  "name": "patreon-exporter",
+  "version": "0.1.0",
+  "description": "Export your own Patreon creator posts to local JSON and convert them to Markdown.",
+  "type": "module",
+  "bin": {
+    "patreon-exporter": "./bin/patreon-exporter.mjs"
+  },
+  "files": [
+    "bin",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "patreon",
+    "export",
+    "markdown",
+    "astro",
+    "static-site"
+  ],
+  "author": "Ludovic Fleury",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}
