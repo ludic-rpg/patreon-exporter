@@ -8,6 +8,8 @@ does not bypass Patreon access controls. Keep your access token, exported paid
 posts, patron data, and downloaded media private unless you are certain you have
 the right to publish them.
 
+I used it to migrate my patreon to my own site: [read the devlog](https://ludicrpg.com/blog/ludic-rpg-site-v1/)
+
 ## Requirements
 
 - Node.js 20 or newer
